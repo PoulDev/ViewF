@@ -1,2 +1,2 @@
 # GeoTraba
-"""Custom GeoGebra"""
+PyGame Application to render mathematical functions
