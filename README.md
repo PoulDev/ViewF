@@ -1,4 +1,7 @@
 # ViewF
-PyGame Application to render mathematical functions
+Render Maths Functions with python
 
-> The code is pure trash, please don't judge it.
+> Why pygame?
+This is a side-project that I made just for fun, I didn't want to spend too much time on it using renders such as OpenGL
+
+![Rendering Functions](./videos/Functions.gif)
